@@ -1,17 +1,40 @@
+# Frontend Developer | JavaScript | React | IT Support Technician
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/alejandro-herrera-molina/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+  </a>
+  
+  <a href="https://discordapp.com/users/alejandro_hm_" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo" />
+  </a>
+
+  <a href="mailto:alejandrohm98a@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
+  </a>
+
+  <a href="https://wa.me/34673439061" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo" />
+  </a>
+</div>
+
 ![Banner](assets/Github%20Banner.gif)
 
-## Frontend Developer | JavaScript | React (Learning) | IT Support Technician
-
-![Profile Views](https://komarev.com/ghpvc/?username=Alex3034&label=Profile%20Views&color=0e75b6&style=flat)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-Avanzado-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-En_Progreso-61DAFB?style=flat&logo=react&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-Usado-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-<!-- 
-![TypeScript](https://img.shields.io/badge/TypeScript-Aprendiendo-3178C6?style=flat&logo=typescript&logoColor=white)
--->
-
----
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="60" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
+</div>
 
 ## 🚀 Sobre Mí
 
@@ -27,42 +50,6 @@ Trabajo actualmente en soporte IT mientras desarrollo proyectos prácticos donde
 
 Actualmente estoy profundizando en React y aprendiendo TypeScript para mejorar la escalabilidad y calidad de mis aplicaciones.
 
----
-
-## 🎯 Current Focus
-
-- Mejorar fundamentos de JavaScript
-- Construir aplicaciones con React
-- Aprender TypeScript
-- Mejorar arquitectura y organización de proyectos
-
----
-
-## 🔥 Proyectos Destacados
-
-| Proyecto | Descripción | Demo | Repositorio |
-|----------|------------|------|------------|
-| Rick & Morty Explorer | Web app con filtros, favoritos e integración con API | 🔗 | 🔗 |
-
----
-
-## 🛠 Tecnologías
-
-**Lenguajes**
-- JavaScript
-- HTML5
-- CSS3
-
-**Frontend**
-- React
-- Tailwind CSS
-
-**Herramientas**
-- Git & GitHub
-- VS Code
-
----
-
 ## 💼 Experiencia Profesional
 
 ### Técnico de Soporte IT N1
@@ -75,15 +62,26 @@ Habilidades desarrolladas:
 - Comunicación técnica
 - Trabajo bajo presión
 
----
+## 🔥 Proyectos Destacados
 
-## 📊 Estadísticas de GitHub
+| Proyecto | Descripción | Demo | Repositorio |
+|----------|------------|------|------------|
+| Rick & Morty Explorer | Web app con filtros, favoritos e integración con API | 🔗 | 🔗 |
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alex3034&show_icons=true&theme=radical)
+<div align="left" style="margin: 100px 50px;">
+  <img src="https://streak-stats.demolab.com?user=Alex3034&locale=es&mode=daily&theme=solarized-dark&hide_border=true&border_radius=5&order=3" height="400" alt="streak graph"  />
+</div>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alex3034&layout=compact&theme=radical)
+## 🎯 Current Focus
 
----
+- Mejorar fundamentos de JavaScript
+- Construir aplicaciones con React
+- Aprender TypeScript
+- Mejorar arquitectura y organización de proyectos
+
+<div align="letf">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alex3034&radius=16&theme=react&area=true&order=5&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
+</div>
 
 ## 📫 Contacto
 
@@ -94,18 +92,21 @@ Habilidades desarrolladas:
 
 ⭐ Construyendo proyectos reales y mejorando cada día.
 
+<div align="left">
+  <a href="https://www.linkedin.com/in/alejandro-herrera-molina/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+  </a>
+  
+  <a href="https://discordapp.com/users/alejandro_hm_" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo" />
+  </a>
 
-<!--
-**Alex3034/Alex3034** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <a href="mailto:alejandrohm98a@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
+  </a>
 
-Here are some ideas to get you started:
+  <a href="https://wa.me/34673439061" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo" />
+  </a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
