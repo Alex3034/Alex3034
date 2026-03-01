@@ -1,6 +1,6 @@
 # 👨‍💻 Alejandro Herrera
 
-![Banner](https://via.placeholder.com/1200x300.png?text=Frontend+Developer+|+JavaScript+|+React+|+IT+Support)
+![Banner](assets/Github%20Banner.gif)
 
 ## Frontend Developer | JavaScript | React (Learning) | IT Support Technician
 
