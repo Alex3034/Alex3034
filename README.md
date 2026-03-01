@@ -62,12 +62,6 @@ Habilidades desarrolladas:
 - Comunicación técnica
 - Trabajo bajo presión
 
-## 🔥 Proyectos Destacados
-
-| Proyecto | Descripción | Demo | Repositorio |
-|----------|------------|------|------------|
-| Rick & Morty Explorer | Web app con filtros, favoritos e integración con API | 🔗 | 🔗 |
-
 <div align="left" style="margin: 100px 50px;">
   <img src="https://streak-stats.demolab.com?user=Alex3034&locale=es&mode=daily&theme=solarized-dark&hide_border=true&border_radius=5&order=3" height="400" alt="streak graph"  />
 </div>
