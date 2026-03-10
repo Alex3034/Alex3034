@@ -36,23 +36,22 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
 </div>
 
-## 🚀 Sobre Mí
+## 🚀 Sobre mí
 
-Desarrollador Frontend con buen dominio de JavaScript y experiencia construyendo aplicaciones web reales.
+Soy desarrollador frontend enfocado en **JavaScript y React**, actualmente trabajando en soporte IT mientras desarrollo proyectos reales para mejorar mis habilidades como desarrollador.
 
-Trabajo actualmente en soporte IT mientras desarrollo proyectos prácticos donde aplico:
+Me interesa especialmente:
 
-- Arquitectura modular
+- Arquitectura modular en frontend
 - Consumo de APIs
-- Persistencia con LocalStorage
-- Diseño responsive
-- Buenas prácticas de código
+- Optimización de rendimiento
+- Interfaces modernas y responsive
 
-Actualmente estoy profundizando en React y aprendiendo TypeScript para mejorar la escalabilidad y calidad de mis aplicaciones.
+Actualmente estoy profundizando en **React** y aprendiendo **TypeScript** para construir aplicaciones más escalables y mantenibles.
 
 ## 💼 Experiencia Profesional
 
-### Técnico de Soporte IT N1
+### Técnico de Soporte IT N1 - N2
 
 Actualmente trabajo resolviendo incidencias técnicas y dando soporte en un entorno profesional.
 
@@ -62,18 +61,60 @@ Habilidades desarrolladas:
 - Comunicación técnica
 - Trabajo bajo presión
 
-<div align="left" style="margin: 100px 50px;">
+## 🧩 Proyectos Destacados
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center" width="50%">
+
+### 🐱 Cat Gallery Pro
+
+<img src="assets/cat-gallery-preview2.png" width="400">
+
+<br>
+
+🔗[ **Demo** ](https://alex3034.github.io/cat-gallery-pro) 
+
+💻[ **Repositorio** ](https://github.com/Alex3034/cat-gallery-pro)
+
+</td>
+
+<td align="center" width="50%">
+
+### 👾 Rick & Morty Explorer
+
+<img src="./assets/rick-morty-preview.png" width="400">
+
+<br>
+
+🔗[**Demo**](https://alex3034.github.io/rick-and-morty-explorer/)
+
+💻[**Repositorio**](https://github.com/Alex3034/rick-and-morty-explorer)
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+<div align="center" style="margin: 100px 50px;">
   <img src="https://streak-stats.demolab.com?user=Alex3034&locale=es&mode=daily&theme=solarized-dark&hide_border=true&border_radius=5&order=3" height="400" alt="streak graph"  />
 </div>
 
 ## 🎯 Current Focus
 
-- Mejorar fundamentos de JavaScript
-- Construir aplicaciones con React
-- Aprender TypeScript
+Actualmente estoy trabajando en:
+
+- Profundizar en **JavaScript moderno (ES6+)**
+- Construir aplicaciones con **React**
+- Aprender **TypeScript**
 - Mejorar arquitectura y organización de proyectos
 
-<div align="letf">
+<div align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alex3034&radius=16&theme=react&area=true&order=5&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
 </div>
 
